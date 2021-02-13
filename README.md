@@ -1,3 +1,5 @@
-# test_delme
+# 3 Ways You Can Improve Your BERT Model
 
-Doing this for coursera :D
+1. Set up Optimizer
+2. Adjust Scheduler 
+3. Tune BERT by fine-tuning no. of epochs
