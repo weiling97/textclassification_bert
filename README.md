@@ -2,4 +2,4 @@
 
 1. Set up Optimizer
 2. Adjust Scheduler 
-3. Tune BERT by fine-tuning no. of epochs
+3. Fine-tuning no. of epochs
