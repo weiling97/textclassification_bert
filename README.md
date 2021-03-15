@@ -14,11 +14,11 @@
   + [1. Exploratory Data Analysis and Preprocessing](#1-exploratory-data-analysis-and-preprocessing)
   + [2. Training and Validation Split](#2-training-and-validation-split)
   + [3. Loading Tokenizer and Encoding our Data](#3-loading-tokenizer-and-encoding-our-data)
-  + [4. Setting up BERT Pretrained Model](4-setting-up-bert-pretrained-model)
-  + [5. Creating Data Loaders](5-creating-data-loaders)
-  + [6. Setting Up Optimizer and Scheduler](6-setting-up-optimizer-and-scheduler)
-  + [7. Defining our Performance Metrics](7-defining-our-performance-metrics)
-  + [8. Creating our Training Loop](8-creating-our-training-loop)
+  + [4. Setting up BERT Pretrained Model](#4-setting-up-bert-pretrained-model)
+  + [5. Creating Data Loaders](#5-creating-data-loaders)
+  + [6. Setting Up Optimizer and Scheduler](#6-setting-up-optimizer-and-scheduler)
+  + [7. Defining our Performance Metrics](#7-defining-our-performance-metrics)
+  + [8. Creating our Training Loop](#8-creating-our-training-loop)
 * [Acknowledgements](#acknowledgements)
 
 ## About the Project
