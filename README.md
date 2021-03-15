@@ -7,7 +7,9 @@
 ## Table of contents
 * [About the Project](#about-the-project)
 * [Description](#description)
-* [Installation](#installation)
+* [Getting Started](#getting-started)
+  + [Prerequisites](#prerequisites)
+  + [Installation](#installation)
 * [Steps](#steps)
 * [Acknowledgements](#acknowledgements)
 
@@ -15,18 +17,22 @@
 This project is about finetuning BERT to do text classification, highlighting 3 finetuning methods.
 
 ## Description
-Classification of tweets according to emotions towards arts and cultural experiences in museums
+- Classification of tweets according to emotions towards arts and cultural experiences in museums
 
-Dataset:
- - 3085 tweets
- - 5 emotions: anger, disgust, happiness, surprise, sadness
+- Dataset:
+  - 3085 tweets
+  - 5 emotions: anger, disgust, happiness, surprise, sadness
 
 ![github](https://user-images.githubusercontent.com/55085035/111116043-67f05f80-85a0-11eb-8dfe-2573e1ff9985.png)
 
-	
-## Installation
+## Getting Started
 
-Clone the repo:
+### Prerequisites
+- Basic understanding of Deep Learning and NLP models (BERT)
+
+### Installation
+
+- Clone the repo:
 
 ```
 $ git clone https://github.com/weiling97/textclassification_bert.git
