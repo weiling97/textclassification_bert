@@ -8,6 +8,7 @@
 * [General info](#general-info)
 * [Technologies](#technologies)
 * [Setup](#setup)
+  + [test](#test)
 
 ## General info
 This project is simple Lorem ipsum dolor generator.
