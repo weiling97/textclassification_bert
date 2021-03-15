@@ -26,7 +26,7 @@ Dataset:
 	
 ## Installation
 
-To run this project, clone the repo:
+Clone the repo:
 
 ```
 $ git clone https://github.com/weiling97/textclassification_bert.git
