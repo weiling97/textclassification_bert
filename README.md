@@ -94,7 +94,7 @@ $ git clone https://github.com/weiling97/textclassification_bert.git
 ![image](https://user-images.githubusercontent.com/55085035/112122121-ea110180-8bfa-11eb-9523-fce60961e73a.png)
 ![image](https://user-images.githubusercontent.com/55085035/112122472-4aa03e80-8bfb-11eb-9e45-0b03b745d8c5.png)
 
-- I have found another example of training loss and validation loss plot. From the plot, we would then know how to adjust the parameters to obtain the best model. Specifically, we can adjust the parameter such that 1300 steps is taken instead of 1400 steps so that training loss is minimised.
+- I have found another example of training loss and validation loss plot. From the plot, we would then know how to adjust the parameters to obtain the best model. Specifically, we can adjust the parameter such that 1200 steps is taken instead of 1400 steps so that training loss is minimised.
 
 ![image](https://user-images.githubusercontent.com/55085035/112123563-54767180-8bfc-11eb-848c-bd20dcb1e5a7.png)
 
