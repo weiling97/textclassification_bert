@@ -19,7 +19,7 @@
   + [6. Setting Up Optimizer and Scheduler](#6-setting-up-optimizer-and-scheduler)
   + [7. Defining our Performance Metrics](#7-defining-our-performance-metrics)
   + [8. Creating our Training Loop](#8-creating-our-training-loop)
-* [Acknowledgements](#acknowledgements)
+* [Results](#results)
 
 ## About the Project
 This project is about finetuning BERT to do text classification, highlighting 3 finetuning methods.
@@ -88,5 +88,13 @@ $ git clone https://github.com/weiling97/textclassification_bert.git
 - Loss is the result of bad prediction
 
 
-## Acknowledgements
+## Results
+- From the plot, we can see that training loss is reduced. However, due to limited training data, validation loss isn't significant. 
+- The accuracy result on the right also shows how many tweets are correctly predicted.
+![image](https://user-images.githubusercontent.com/55085035/112122121-ea110180-8bfa-11eb-9523-fce60961e73a.png)
+![image](https://user-images.githubusercontent.com/55085035/112122472-4aa03e80-8bfb-11eb-9e45-0b03b745d8c5.png)
+
+- I have found another example of training loss and validation loss plot. From the plot, we would then know how to adjust the parameters to obtain the best model. Specifically, we can adjust the parameter such that 1300 steps is taken instead of 1400 steps so that training loss is minimised.
+
+![image](https://user-images.githubusercontent.com/55085035/112123563-54767180-8bfc-11eb-848c-bd20dcb1e5a7.png)
 
